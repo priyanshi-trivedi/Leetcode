@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0001-two-sum) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -27,5 +28,10 @@
 ## String
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0087-scramble-string](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0087-scramble-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
