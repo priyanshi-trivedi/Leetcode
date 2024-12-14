@@ -19,6 +19,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0202-happy-number](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0202-happy-number) |
 | [0409-longest-palindrome](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0409-longest-palindrome) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Heap (Priority Queue)
@@ -63,4 +64,12 @@
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2868-continuous-subarrays) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
