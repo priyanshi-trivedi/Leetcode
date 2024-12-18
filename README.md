@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0118-pascals-triangle) |
 | [0697-degree-of-an-array](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0697-degree-of-an-array) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1917-maximum-average-pass-ratio](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -89,4 +90,12 @@
 |  |
 | ------- |
 | [2300-construct-string-with-repeat-limit](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+## Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
