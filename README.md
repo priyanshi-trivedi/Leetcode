@@ -10,6 +10,7 @@
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0697-degree-of-an-array](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0780-max-chunks-to-make-sorted](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1025-minimum-cost-for-tickets](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -26,6 +27,7 @@
 | [0118-pascals-triangle](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0118-pascals-triangle) |
 | [0494-target-sum](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1025-minimum-cost-for-tickets](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2562-count-ways-to-build-good-strings](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
