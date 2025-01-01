@@ -63,6 +63,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0087-scramble-string](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0087-scramble-string) |
 | [0409-longest-palindrome](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0409-longest-palindrome) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2300-construct-string-with-repeat-limit](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 ## Sliding Window
@@ -167,4 +168,8 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0494-target-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
