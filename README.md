@@ -88,6 +88,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1917-maximum-average-pass-ratio](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2509-minimize-xor](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2509-minimize-xor) |
 ## Queue
 |  |
 | ------- |
@@ -182,5 +183,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [2509-minimize-xor](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
