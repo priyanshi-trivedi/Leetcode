@@ -21,6 +21,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2868-continuous-subarrays](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2868-continuous-subarrays) |
@@ -145,6 +146,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/priyanshi-trivedi/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/priyanshi-trivedi/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
@@ -153,6 +155,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/priyanshi-trivedi/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
@@ -203,9 +206,11 @@
 |  |
 | ------- |
 | [2145-grid-game](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2145-grid-game) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/priyanshi-trivedi/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
 |  |
