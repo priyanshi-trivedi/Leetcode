@@ -72,6 +72,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/priyanshi-trivedi/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/priyanshi-trivedi/Leetcode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/priyanshi-trivedi/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
@@ -83,6 +84,7 @@
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2300-construct-string-with-repeat-limit](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3447-clear-digits](https://github.com/priyanshi-trivedi/Leetcode/tree/master/3447-clear-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -136,6 +138,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/priyanshi-trivedi/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3447-clear-digits](https://github.com/priyanshi-trivedi/Leetcode/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
