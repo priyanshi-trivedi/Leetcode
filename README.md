@@ -10,6 +10,7 @@
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0697-degree-of-an-array](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0780-max-chunks-to-make-sorted](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0958-sort-array-by-parity-ii](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1025-minimum-cost-for-tickets](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1477-product-of-the-last-k-numbers](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0958-sort-array-by-parity-ii](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/priyanshi-trivedi/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -147,6 +149,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0202-happy-number) |
+| [0958-sort-array-by-parity-ii](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 ## Counting
 |  |
 | ------- |
