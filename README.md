@@ -49,6 +49,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1170-shortest-common-supersequence](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -100,6 +101,7 @@
 | [0087-scramble-string](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0087-scramble-string) |
 | [0409-longest-palindrome](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0409-longest-palindrome) |
 | [1160-letter-tile-possibilities](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
