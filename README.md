@@ -22,6 +22,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1917-maximum-average-pass-ratio](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2145-grid-game](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2145-grid-game) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2358-number-of-ways-to-split-array](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -159,6 +161,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0202-happy-number) |
 | [0958-sort-array-by-parity-ii](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Counting
