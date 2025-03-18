@@ -27,6 +27,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2478-longest-nice-subarray](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -123,6 +124,7 @@
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2478-longest-nice-subarray](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2868-continuous-subarrays](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Sorting
 |  |
@@ -262,6 +264,7 @@
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2509-minimize-xor](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
