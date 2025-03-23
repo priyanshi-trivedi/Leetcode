@@ -60,6 +60,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2562-count-ways-to-build-good-strings](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Hash Table
 |  |
@@ -248,6 +249,7 @@
 ## Graph
 |  |
 | ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -299,6 +301,7 @@
 ## Topological Sort
 |  |
 | ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Design
 |  |
@@ -309,4 +312,8 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+## Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
