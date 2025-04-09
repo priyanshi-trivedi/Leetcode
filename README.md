@@ -258,6 +258,7 @@
 ## Graph
 |  |
 | ------- |
+| [1916-find-center-of-star-graph](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1916-find-center-of-star-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
