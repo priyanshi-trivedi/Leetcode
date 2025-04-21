@@ -23,6 +23,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1917-maximum-average-pass-ratio](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2145-grid-game](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2145-grid-game) |
+| [2249-count-the-hidden-sequences](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -285,6 +286,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2145-grid-game](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2145-grid-game) |
+| [2249-count-the-hidden-sequences](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/priyanshi-trivedi/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
