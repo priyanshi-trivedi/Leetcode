@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0118-pascals-triangle) |
+| [0200-number-of-islands](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0494-target-sum](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -223,6 +224,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0200-number-of-islands) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2121-find-if-path-exists-in-graph](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -235,6 +237,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0200-number-of-islands) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2121-find-if-path-exists-in-graph](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -308,11 +311,13 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0200-number-of-islands) |
 | [2145-grid-game](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2145-grid-game) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0200-number-of-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
