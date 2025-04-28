@@ -29,6 +29,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2358-number-of-ways-to-split-array](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2478-longest-nice-subarray) |
@@ -136,6 +137,7 @@
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2868-continuous-subarrays](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/priyanshi-trivedi/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -255,6 +257,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/priyanshi-trivedi/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Binary Indexed Tree
@@ -291,6 +294,7 @@
 | [2145-grid-game](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2145-grid-game) |
 | [2249-count-the-hidden-sequences](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/priyanshi-trivedi/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Bit Manipulation
