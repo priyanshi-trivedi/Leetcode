@@ -12,6 +12,7 @@
 | [0494-target-sum](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0697-degree-of-an-array](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0697-degree-of-an-array) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0780-max-chunks-to-make-sorted](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0958-sort-array-by-parity-ii](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -261,6 +262,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/priyanshi-trivedi/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
