@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0001-two-sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0118-pascals-triangle](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0118-pascals-triangle) |
 | [0200-number-of-islands](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -259,6 +260,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/priyanshi-trivedi/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
