@@ -18,6 +18,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1025-minimum-cost-for-tickets](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1293-three-consecutive-odds](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1477-product-of-the-last-k-numbers](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
