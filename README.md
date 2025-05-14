@@ -9,6 +9,7 @@
 | [0118-pascals-triangle](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0118-pascals-triangle) |
 | [0200-number-of-islands](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0494-target-sum](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0697-degree-of-an-array](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0697-degree-of-an-array) |
@@ -81,6 +82,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0202-happy-number](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0202-happy-number) |
 | [0409-longest-palindrome](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0409-longest-palindrome) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0697-degree-of-an-array](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/priyanshi-trivedi/Leetcode/tree/master/1160-letter-tile-possibilities) |
