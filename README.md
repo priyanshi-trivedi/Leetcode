@@ -58,6 +58,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/priyanshi-trivedi/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/priyanshi-trivedi/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/priyanshi-trivedi/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3639-zero-array-transformation-i](https://github.com/priyanshi-trivedi/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/priyanshi-trivedi/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Dynamic Programming
 |  |
@@ -311,6 +312,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/priyanshi-trivedi/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3639-zero-array-transformation-i](https://github.com/priyanshi-trivedi/Leetcode/tree/master/3639-zero-array-transformation-i) |
 ## Bit Manipulation
 |  |
 | ------- |
