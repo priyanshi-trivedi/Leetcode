@@ -124,6 +124,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/priyanshi-trivedi/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/priyanshi-trivedi/Leetcode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/priyanshi-trivedi/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/priyanshi-trivedi/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
 | ------- |
@@ -193,6 +194,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/priyanshi-trivedi/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/priyanshi-trivedi/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -324,6 +326,7 @@
 | [2792-neighboring-bitwise-xor](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/priyanshi-trivedi/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/priyanshi-trivedi/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/priyanshi-trivedi/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -369,4 +372,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/priyanshi-trivedi/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/priyanshi-trivedi/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
