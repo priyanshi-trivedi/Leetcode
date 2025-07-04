@@ -195,6 +195,7 @@
 | [2649-count-total-number-of-colored-cells](https://github.com/priyanshi-trivedi/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/priyanshi-trivedi/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/priyanshi-trivedi/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/priyanshi-trivedi/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -327,6 +328,7 @@
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/priyanshi-trivedi/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/priyanshi-trivedi/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/priyanshi-trivedi/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/priyanshi-trivedi/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -376,4 +378,5 @@
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/priyanshi-trivedi/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/priyanshi-trivedi/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 <!---LeetCode Topics End-->
